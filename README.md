@@ -14,18 +14,15 @@ I’ve got a toolkit of go-to technologies that I use to build robust, modern we
 - **Kubernetes (K8s)**: For projects that demand scale and resilience, K8s handles the heavy lifting—keeping apps humming no matter the load.
 - **GitHub Actions**: Automation at its best. I use it to streamline CI/CD pipelines, run tests, and deploy with confidence—saving time and keeping quality high.
 
-#### What I’m Up To
-I spend my days (and sometimes nights) working remotely on client projects—turning ideas into polished, production-ready apps. When I’m not building for clients, I’m tinkering on my own venture: **[SaaS Web application for service-based businesses](https://vivasaas.netlify.app/)**. It’s a passion project close to my heart—take a peek and let me know what you think!
-
 #### Let’s Team Up
-Need a fullstack engineer for your next project? I’d love to collaborate remotely and bring your vision to life. **[Schedule a call with me](https://dennismbugua.co.ke/me#contact-section)**—let’s chat about what we can build together with my favorite tech stack.
+Need a fullstack engineer for your next project? I’d love to collaborate remotely and bring your vision to life. **[Schedule a call with me](https://njuguna.dev/me#contact-section)**—let’s chat about what we can build together with my favorite tech stack.
 
 #### Stay Connected
-I share tips, updates, and behind-the-scenes looks at my work in my weekly newsletter. If you’re into web dev or just curious about what I’m up to, **[sign up here](https://dmbugua.substack.com/)**—I’d be thrilled to have you join the journey.
+I share tips, updates, and behind-the-scenes looks at my work in my weekly newsletter. If you’re into web dev or just curious about what I’m up to, **[sign up here](https://dennisnjuguna.substack.com/)**—I’d be thrilled to have you join the journey.
 
 #### Fun Fact
 Nothing beats the thrill of a smooth deployment or cracking a tough bug—remote work just makes it all the sweeter with a coffee shop vibe from anywhere.
 
 ---
 
-Thanks for swinging by! Dive into my repos, star what catches your eye, or reach out via **[LinkedIn](https://www.linkedin.com/in/dennismbugua/)**. Excited to connect and create something awesome with you!
+Thanks for swinging by! Dive into my repos, star what catches your eye, or reach out via **[LinkedIn](https://www.linkedin.com/in/dennisnjuguna/)**. Excited to connect and create something awesome with you!
