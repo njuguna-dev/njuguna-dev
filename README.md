@@ -1,28 +1,90 @@
-### Hey, I’m Dennis 👋
+<div align="center">
 
-I’m a fullstack software engineer passionate about building web applications that solve problems and create great user experiences. From frontend flair to backend horsepower, I love crafting end-to-end solutions remotely—giving me the flexibility to collaborate with clients and teams worldwide. Clean code, smart design, and impactful results are my driving forces.
+# Hey, I'm Dennis 👋
 
-#### My Favorite Technologies
-I’ve got a toolkit of go-to technologies that I use to build robust, modern web apps. Here’s what I love working with and why they rock:
+### Fullstack Software Engineer · Remote-First · Problem Solver
 
-- **NextJS & ReactJS**: For fast, dynamic frontends, NextJS’s server-side rendering and static generation deliver speed and SEO magic. React’s component-based structure keeps things modular and fun to build.
-- **Tailwind CSS**: Styling made simple. Tailwind’s utility-first approach lets me whip up responsive, pixel-perfect designs without the CSS clutter—efficiency at its finest.
-- **TSX (TypeScript + JSX)**: Type safety meets React goodness. I lean on TypeScript to catch errors early, making my code cleaner and more reliable.
-- **Django**: My backend weapon of choice. Django’s secure, scalable framework—complete with auth, ORM, and admin tools—speeds up development while keeping things solid.
-- **PostgreSQL**: A powerhouse database I adore. Its reliability, advanced features (like JSON support), and scalability make it perfect for handling complex data with ease.
-- **Docker**: Containers are my deployment BFF. Docker ensures consistency across environments, making remote workflows seamless and stress-free.
-- **Kubernetes (K8s)**: For projects that demand scale and resilience, K8s handles the heavy lifting—keeping apps humming no matter the load.
-- **GitHub Actions**: Automation at its best. I use it to streamline CI/CD pipelines, run tests, and deploy with confidence—saving time and keeping quality high.
+*I build web applications that look great, perform flawlessly, and actually solve problems.*
 
-#### Let’s Team Up
-Need a fullstack engineer for your next project? I’d love to collaborate remotely and bring your vision to life. **[Schedule a call with me](https://njuguna.dev/me#contact-section)**—let’s chat about what we can build together with my favorite tech stack.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennisnjuguna/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@njuguna-dev)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/njuguna.dev)
+[![Newsletter](https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://dennisnjuguna.substack.com/)
+[![Hire Me](https://img.shields.io/badge/Schedule_a_Call-00C896?style=for-the-badge&logo=googlemeet&logoColor=white)](https://njuguna.dev/me#contact-section)
 
-#### Stay Connected
-I share tips, updates, and behind-the-scenes looks at my work in my weekly newsletter. If you’re into web dev or just curious about what I’m up to, **[sign up here](https://dennisnjuguna.substack.com/)**—I’d be thrilled to have you join the journey.
-
-#### Fun Fact
-Nothing beats the thrill of a smooth deployment or cracking a tough bug—remote work just makes it all the sweeter with a coffee shop vibe from anywhere.
+</div>
 
 ---
 
-Thanks for swinging by! Dive into my repos, star what catches your eye, or reach out via **[LinkedIn](https://www.linkedin.com/in/dennisnjuguna/)**. Excited to connect and create something awesome with you!
+## 🧠 About Me
+
+I'm a fullstack engineer who obsesses over the full picture — from pixel-perfect frontends to bulletproof backends. Working remotely gives me the freedom to collaborate with teams and clients across the globe, bringing clean code, smart architecture, and real-world impact to every project.
+
+Whether it's crafting a delightful UI, designing a scalable API, or automating a CI/CD pipeline at midnight with a coffee in hand — I'm all in.
+
+> *"Nothing beats the thrill of a smooth deployment or cracking a tough bug — remote work just makes it all the sweeter."*
+
+---
+
+## 🛠️ My Favorite Technologies
+
+The tools I reach for day after day to ship robust, modern web apps:
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Next.js & React** — Server-side rendering, static generation, SEO magic, and a component model that keeps things modular and a joy to build.
+
+**Tailwind CSS** — Utility-first styling that turns "make it responsive and beautiful" from a chore into a superpower.
+
+**TypeScript (TSX)** — Because catching errors at compile time beats debugging at 2am. Type safety is not optional for me.
+
+---
+
+### Backend & Data
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Django** — Batteries-included and battle-tested. Auth, ORM, admin panel, and security baked right in. My go-to for APIs that need to scale.
+
+**PostgreSQL** — Reliability, JSON support, full-text search, and rock-solid performance. Postgres handles whatever I throw at it.
+
+---
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Docker** — Consistent environments from dev to prod. "Works on my machine" is not in my vocabulary.
+
+**Kubernetes** — When scale and resilience matter, K8s keeps the ship running no matter the load.
+
+**GitHub Actions** — Automated CI/CD pipelines, test runners, and deployments that let me ship with confidence and zero manual drudgery.
+
+---
+
+## 🤝 Let's Team Up
+
+Got a project that needs a fullstack engineer who can own the whole stack from database schema to responsive UI and deliver remotely without missing a beat? **[📅 Schedule a call](https://njuguna.dev/me#contact-section)**
+
+---
+
+## 📬 Stay Connected
+
+**[✉️ Subscribe on Substack](https://dennisnjuguna.substack.com/)** — I write a weekly newsletter covering web dev insights, tips, and behind-the-scenes looks at what I'm building. No fluff, just signal.
+
+---
+
+<div align="center">
+
+Thanks for stopping by! Browse my repos, ⭐ anything that sparks your interest, and don't be a stranger.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennisnjuguna/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@njuguna-dev)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/njuguna.dev)
+
+</div>
