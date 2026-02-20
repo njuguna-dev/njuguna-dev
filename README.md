@@ -20,7 +20,7 @@
 
 I'm a fullstack engineer who obsesses over the full picture — from pixel-perfect frontends to bulletproof backends. Working remotely gives me the freedom to collaborate with teams and clients across the globe, bringing clean code, smart architecture, and real-world impact to every project.
 
-Whether it's crafting a delightful UI, designing a scalable API, or automating a CI/CD pipeline at midnight with a coffee in hand — I'm all in.
+Whether it's crafting a delightful UI, designing a scalable API, or automating a CI/CD pipeline at midnight with a coffee in hand, I'm all in.
 
 > *"Nothing beats the thrill of a smooth deployment or cracking a tough bug — remote work just makes it all the sweeter."*
 
